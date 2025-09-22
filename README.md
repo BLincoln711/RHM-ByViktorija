@@ -4,8 +4,8 @@
 Based on current performance data and luxury fashion industry benchmarks, this forecast projects potential results for Google Ads campaigns focusing on Performance Max and Shopping campaigns.
 
 ## Current Performance Baseline
-- **Average Order Value**: $928.34
-- **Current Conversion Rate**: 3.4%
+- **Average Order Value**: $600
+- **Current Conversion Rate**: 1.25%
 - **Top Traffic Source**: Direct (59% of revenue)
 - **Google Current Performance**: 4 orders from organic traffic
 
@@ -30,10 +30,10 @@ Based on current performance data and luxury fashion industry benchmarks, this f
 | Clicks | 1,750 | 1,000 | 2,750 |
 | CPC | $2.00 | $1.50 | $1.82 |
 | CTR | 2.5% | 3.0% | 2.7% |
-| Conversions | 35 | 10 | 45 |
-| Conversion Rate | 2.0% | 1.0% | 1.6% |
-| Revenue | $32,492 | $9,283 | $41,775 |
-| ROAS | 928% | 619% | 836% |
+| Conversions | 22 | 8 | 30 |
+| Conversion Rate | 1.25% | 0.8% | 1.1% |
+| Revenue | $13,200 | $4,800 | $18,000 |
+| ROAS | 377% | 320% | 360% |
 
 ### Moderate Budget: $10,000/month
 
@@ -43,10 +43,10 @@ Based on current performance data and luxury fashion industry benchmarks, this f
 | Clicks | 3,889 | 2,143 | 6,032 |
 | CPC | $1.80 | $1.40 | $1.66 |
 | CTR | 2.8% | 3.2% | 2.9% |
-| Conversions | 78 | 21 | 99 |
-| Conversion Rate | 2.0% | 1.0% | 1.6% |
-| Revenue | $72,410 | $19,495 | $91,905 |
-| ROAS | 1034% | 650% | 919% |
+| Conversions | 49 | 17 | 66 |
+| Conversion Rate | 1.25% | 0.8% | 1.1% |
+| Revenue | $29,400 | $10,200 | $39,600 |
+| ROAS | 420% | 340% | 396% |
 
 ### Aggressive Budget: $20,000/month
 
@@ -56,10 +56,10 @@ Based on current performance data and luxury fashion industry benchmarks, this f
 | Clicks | 8,235 | 4,615 | 12,850 |
 | CPC | $1.70 | $1.30 | $1.56 |
 | CTR | 3.0% | 3.5% | 3.2% |
-| Conversions | 165 | 46 | 211 |
-| Conversion Rate | 2.0% | 1.0% | 1.6% |
-| Revenue | $153,176 | $42,703 | $195,879 |
-| ROAS | 1094% | 712% | 979% |
+| Conversions | 103 | 37 | 140 |
+| Conversion Rate | 1.25% | 0.8% | 1.1% |
+| Revenue | $61,800 | $22,200 | $84,000 |
+| ROAS | 441% | 370% | 420% |
 
 ## Key Assumptions
 
